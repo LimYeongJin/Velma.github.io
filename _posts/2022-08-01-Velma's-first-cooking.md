@@ -3,7 +3,7 @@ layout: single
 title:  "Velma's First Cooking"
 ---
 
-===
+
 벨마네 코딩 식당 개업
 ===
 
@@ -35,10 +35,10 @@ title:  "Velma's First Cooking"
 
 ~~ 주문 취소 ~~
 
-* 벨마 *
+  * 벨마 *
 
-** 벨마 **
+  ** 벨마 **
 
-*** 벨마 ***
+  *** 벨마 ***
 
-**** 벨마 ****
+  **** 벨마 ****
